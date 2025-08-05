@@ -1,0 +1,20 @@
+# Ignore virtual environment and Python cache
+venv/
+Lib/
+Scripts/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output, uploads, or generated files
+uploads/
+output/
+*.txt
+*.png
+*.csv
+
+# Sensitive info
+.env
